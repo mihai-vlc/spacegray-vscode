@@ -1,0 +1,37 @@
+{
+    "name": "spacegray-vscode",
+    "displayName": "Spacegray VSCode",
+    "description": "Spacegray theme for visual studio code.",
+    "version": "1.0.0",
+    "publisher": "ionutvmi",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spacegray Ocean Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-ocean.dark.tmTheme"
+            },
+            {
+                "label": "Spacegray Eighties Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-eighties.dark.tmTheme"
+            },
+            {
+                "label": "Spacegray Mocha Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-mocha.dark.tmTheme"
+            },
+            {
+                "label": "Spacegray Ocean Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-ocean.light.tmTheme"
+            }
+        ]
+    }
+}
