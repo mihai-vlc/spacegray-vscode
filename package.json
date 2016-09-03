@@ -4,6 +4,15 @@
     "description": "Spacegray theme for visual studio code.",
     "version": "1.0.0",
     "publisher": "ionutvmi",
+    "icon": "screenshots/eightis.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ionutvmi/spacegray-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/ionutvmi/spacegray-vscode/issues",
+        "email": "ionutvmi@gmail.com"
+    },
     "engines": {
         "vscode": "*"
     },
