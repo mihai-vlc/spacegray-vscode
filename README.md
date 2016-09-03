@@ -2,16 +2,17 @@
 Spacegray theme adapted for visual studio code.
 
 ## Base 16 Eighties
-![](screenshots/eighties.png)
+<img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/eighties.png" alt="" />
 
 ## Base 16 Mocha
-![](screenshots/mocha.png)
+<img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/mocha.png" alt="" />
+
 
 ## Base 16 Ocean Dark
-![](screenshots/ocean.png)
+<img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/ocean.png" alt="" />
 
 ## Base 16 Ocean Light
-![](screenshots/ocean-light.png)
+<img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/ocean-light.png" alt="" />
 
 ## How to activate
 Open the command palette (Ctrl+Shift+P) and search for `Color Theme`.  
