@@ -2,7 +2,7 @@
 Spacegray theme adapted for visual studio code.
 
 ## Base 16 Eighties
-![](screenshots/eightis.png)
+![](screenshots/eighties.png)
 
 ## Base 16 Mocha
 ![](screenshots/mocha.png)
