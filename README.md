@@ -7,7 +7,6 @@ Spacegray theme adapted for visual studio code.
 ## Base 16 Mocha
 <img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/mocha.png" alt="" />
 
-
 ## Base 16 Ocean Dark
 <img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/ocean.png" alt="" />
 

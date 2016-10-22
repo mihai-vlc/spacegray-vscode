@@ -524,7 +524,7 @@
 				<key>background</key>
 				<string>#bf616a</string>
 				<key>foreground</key>
-				<string>#eff1f5</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
