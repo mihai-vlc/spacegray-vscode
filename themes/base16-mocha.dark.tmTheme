@@ -145,11 +145,11 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>meta.class</string>
+			<string>meta.entity.new.name.expr</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f5eeeb</string>
+				<string>#f4bc87</string>
 			</dict>
 		</dict>
 		<dict>
