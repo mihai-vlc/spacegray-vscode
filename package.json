@@ -2,7 +2,7 @@
     "name": "spacegray-vscode",
     "displayName": "Spacegray VSCode",
     "description": "Spacegray theme for visual studio code.",
-    "version": "1.1.4",
+    "version": "1.2.0",
     "publisher": "ionutvmi",
     "icon": "screenshots/eighties.png",
     "repository": {
@@ -24,22 +24,22 @@
             {
                 "label": "Spacegray Ocean Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/base16-ocean.dark.tmTheme"
+                "path": "./themes/base16-ocean.dark.json"
             },
             {
                 "label": "Spacegray Eighties Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/base16-eighties.dark.tmTheme"
+                "path": "./themes/base16-eighties.dark.json"
             },
             {
                 "label": "Spacegray Mocha Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/base16-mocha.dark.tmTheme"
+                "path": "./themes/base16-mocha.dark.json"
             },
             {
                 "label": "Spacegray Ocean Light",
                 "uiTheme": "vs",
-                "path": "./themes/base16-ocean.light.tmTheme"
+                "path": "./themes/base16-ocean.light.json"
             }
         ]
     }
