@@ -357,17 +357,15 @@
         }
     ], 
     "colors": {
-        "editorLineHighlight": "#65737e30", 
-        "editorBackground": "#2b303b", 
-        "activeGuide": "#96b5b4", 
-        "stackGuide": "#343d46", 
-        "editorCursor": "#c0c5ce", 
-        "editorSelection": "#4f5b66", 
-        "editorForeground": "#c0c5ce", 
-        "editorWhitespaces": "#65737e", 
-        "editorIndentGuides": "#3b5364",
-        "sideBarBackground": "#252a35",
-        "activityBarBackground": "#2b303b"
+        "editor.lineHighlightBackground": "#65737e30", 
+        "editor.background": "#2b303b", 
+        "editorCursor.foreground": "#c0c5ce", 
+        "editor.selectionBackground": "#4f5b66", 
+        "editor.foreground": "#c0c5ce", 
+        "editorWhitespace.foreground": "#65737e", 
+        "editorIndentGuide.background": "#3b5364",
+        "sideBar.background": "#252a35",
+        "activityBar.background": "#2b303b"
 
     },
     "colorSpaceName": "sRGB", 

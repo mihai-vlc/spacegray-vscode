@@ -350,14 +350,14 @@
         }
     ],
     "colors": {
-        "editorLineHighlight": "#74736930", 
-        "editorBackground": "#2d2d2d", 
-        "editorCursor": "#d3d0c8", 
-        "editorSelection": "#515151", 
-        "editorForeground": "#d3d0c8", 
-        "editorWhitespaces": "#747369", 
-        "sideBarBackground": "#292929",
-        "activityBarBackground": "#2d2d2d" 
+        "sideBar.background": "#292929",
+        "activityBar.background": "#2d2d2d",
+        "editor.background": "#2d2d2d",
+        "editorCursor.foreground": "#d3d0c8",
+        "editor.foreground": "#d3d0c8",
+        "editorWhitespace.foreground": "#747369",
+        "editor.lineHighlightBackground": "#74736930",
+        "editor.selectionBackground": "#515151"
     },
     "colorSpaceName": "sRGB", 
     "author": "Mihai Ionut Vilcu (http://github.com/ionutvmi)", 
