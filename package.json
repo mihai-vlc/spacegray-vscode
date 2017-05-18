@@ -2,7 +2,7 @@
     "name": "spacegray-vscode",
     "displayName": "Spacegray VSCode",
     "description": "Spacegray theme for visual studio code.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "ionutvmi",
     "icon": "screenshots/eighties.png",
     "repository": {
