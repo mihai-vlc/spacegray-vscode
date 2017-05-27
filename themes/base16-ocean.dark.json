@@ -374,6 +374,7 @@
         "tab.inactiveBackground": "#1c1f26",
         "statusBar.background": "#1c1f26",
         "statusBar.foreground": "#4f5b66",
+        "statusBar.debuggingBackground": "#230000",
         "titleBar.inactiveBackground": "#1c1f26",
         "titleBar.activeBackground": "#1c1f26",
         "list.activeSelectionBackground": "#343d46",
@@ -381,7 +382,10 @@
         "list.focusBackground": "#343d46",
         "list.hoverBackground": "#1c1f26",
         "input.background": "#1c1f26",
-        "dropdown.background": "#1c1f26"
+        "dropdown.background": "#1c1f26",
+        "editorWidget.background": "#232830",
+        "editorHoverWidget.background": "#232830",
+        "editorHoverWidget.border": "#343d46"
     },
     "colorSpaceName": "sRGB", 
     "author": "Mihai Ionut Vilcu (http://github.com/ionutvmi)", 
