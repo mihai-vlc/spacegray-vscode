@@ -373,7 +373,7 @@
         "tab.inactiveForeground": "#65737f",
         "tab.inactiveBackground": "#1c1f26",
         "statusBar.background": "#1c1f26",
-        "statusBar.foreground": "#4f5b66",
+        "statusBar.foreground": "#eff1f5",
         "statusBar.debuggingBackground": "#230000",
         "titleBar.inactiveBackground": "#1c1f26",
         "titleBar.activeBackground": "#1c1f26",
