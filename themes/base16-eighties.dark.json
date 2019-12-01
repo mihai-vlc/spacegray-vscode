@@ -357,7 +357,10 @@
         "editor.foreground": "#d3d0c8",
         "editorWhitespace.foreground": "#747369",
         "editor.lineHighlightBackground": "#74736930",
-        "editor.selectionBackground": "#515151"
+        "editor.selectionBackground": "#515151",
+        "statusBar.background": "#3b3b3b",
+        "statusBarItem.remoteBackground" : "#3b3b3b",
+        "statusBarItem.remoteForeground" : "#ffffff"
     },
     "colorSpaceName": "sRGB", 
     "author": "Mihai Ionut Vilcu (http://github.com/ionutvmi)", 
