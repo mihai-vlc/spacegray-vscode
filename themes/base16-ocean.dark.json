@@ -386,7 +386,9 @@
         "dropdown.background": "#1c1f26",
         "editorWidget.background": "#232830",
         "editorHoverWidget.background": "#232830",
-        "editorHoverWidget.border": "#343d46"
+        "editorHoverWidget.border": "#343d46",
+        "statusBarItem.remoteBackground" : "#1c1f26",
+        "statusBarItem.remoteForeground" : "#eff1f5"
     },
     "colorSpaceName": "sRGB", 
     "author": "Mihai Ionut Vilcu (http://github.com/ionutvmi)", 
